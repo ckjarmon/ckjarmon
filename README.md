@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-I'm Christian Jarmon. 
+Allo mate, I'm Christian Jarmon. Systems programmer in Python, Javascript, C++, and Rust. Don't be shy, have a look around. :)
 
 <img align="left" src="me.png" width = 400 style=  border-radius:50%;>
 
