@@ -14,3 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="left" src="me.png">
+
+### Hi there 👋
+
+I'm Christian Jarmon. 
+
+
+<br>
+
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=kyeou&show_icons=true&" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kyeou&hide_border=true" width = 400>
+</p>
