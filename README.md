@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <img align="left" src="me.png">
 
-### Hi there 👋
 
 I'm Christian Jarmon. 
 
