@@ -25,7 +25,7 @@ Allo mate, I'm Christian Jarmon. Systems programmer in Python, Javascript, C++, 
 <br>
 
 <p align = "center">
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kyeou&layout=compact&theme=dark&langs_count=10" width = 400>
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kyeou&layout=compact&theme=dark&langs_count=10&hide=llvm" width = 400>
    <img src = "https://github-readme-streak-stats.herokuapp.com?user=kyeou&hide_border=true&theme=dark" width = 400>
    <img src = "https://github-readme-stats.vercel.app/api?username=kyeou&show_icons=true&theme=dark" width = 400>
 </p>
