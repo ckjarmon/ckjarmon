@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="me.png">
+
 
 
 I'm Christian Jarmon. 
 
+<img align="left" src="me.png" width = 400 style=  border-radius:50%;>
 
 <br>
 
