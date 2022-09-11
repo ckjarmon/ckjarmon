@@ -20,11 +20,12 @@ Here are some ideas to get you started:
 
 Allo mate, I'm Christian Jarmon. Systems programmer in Python, Javascript, C++, and Rust. Don't be shy, have a look around. :)
 
-<img align="left" src="me.png" width = 400>
+<img align="left" src="me.png" width = 600>
 
 <br>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kyeou&show_icons=true&theme=dark" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=kyeou&hide_border=true&theme=dark" width = 400>
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kyeou&layout=compact&theme=dark" width = 400>
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kyeou&hide_border=true&theme=dark" width = 400>
+   <img src = "https://github-readme-stats.vercel.app/api?username=kyeou&show_icons=true&theme=dark" width = 400>
 </p>
