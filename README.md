@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 
 
-Allo mate, I'm Christian Jarmon. Systems programmer in Python, Javascript, C++, and Rust. Don't be shy, have a look around. :)
+Allo mate, I'm Christian Jarmon. Just your friendly neighborhood Spider....uh i mean programmer.
+<br>https://kyeou.github.io</br>
 
 <img align="left"  src="kye.png" style = "width: 400px; margin: 0px auto;" >
 
