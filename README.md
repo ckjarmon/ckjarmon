@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Allo mate, I'm Christian Jarmon. Systems programmer in Python, Javascript, C++, and Rust. Don't be shy, have a look around. :)
 
-<img align="left"  src="me.png" style = "width: 400px; margin: 0px auto;" >
+<img align="left"  src="kye.png" style = "width: 400px; margin: 0px auto;" >
 
 <br>
 
