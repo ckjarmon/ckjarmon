@@ -26,6 +26,6 @@ Allo mate, I'm Christian Jarmon. Just your friendly neighborhood Spider....uh i 
 <br>
 
 <p style = "width: 400px; float: right;" >
-   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kyeou&layout=compact&theme=dark&langs_count=10&hide=llvm" width = 400>
-   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kyeou&theme=dark" width = 400>
+   <img src = "https://github-readme-stats.vercel.app/api?username=kyeou&show_icons=true&theme=merko" width = 400>
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kyeou&theme=merko" width = 400>
 </p>
