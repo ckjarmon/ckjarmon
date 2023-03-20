@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 Just your friendly neighborhood Spider....uh i mean programmer.
 <br>https://kyeou.github.io</br>
 
-<img align="left"  src="kye.png" style = "width: 400px; margin: 0px auto;" >
+<img align="left"  src="kye.png" style = "width: 370px; margin: 0px auto;" >
 
 <br>
 
