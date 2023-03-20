@@ -1,4 +1,4 @@
-### Hi there 👋
+### Allo mate 👋
 
 <!--
 **kyeou/kyeou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-Allo mate, I'm Christian Jarmon. Just your friendly neighborhood Spider....uh i mean programmer.
+Just your friendly neighborhood Spider....uh i mean programmer.
 <br>https://kyeou.github.io</br>
 
 <img align="left"  src="kye.png" style = "width: 400px; margin: 0px auto;" >
