@@ -25,5 +25,5 @@ Just your friendly neighborhood Spider....uh i mean programmer.
 
 <p style = "width: 450px; float: right;" >
    <img src = "https://github-readme-stats.vercel.app/api?username=kyeou&show_icons=true&theme=merko" width = 450>
-   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kyeou&theme=merko" width = 500>
+   <img src = "https://github-readme-streak-stats.herokuapp.com?user=kyeou&theme=merko" width = 450>
 </p>
