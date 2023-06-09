@@ -21,9 +21,7 @@ Here are some ideas to get you started:
 Just your friendly neighborhood Spider....uh i mean programmer.
 <br>https://kyeou.github.io</br>
 
-<img align="left"  src="kye.png" style = "width: 320px; margin: 0px auto;" >
 
-<br>
 
 <p style = "width: 450px; float: right;" >
    <img src = "https://github-readme-stats.vercel.app/api?username=kyeou&show_icons=true&theme=merko" width = 500>
