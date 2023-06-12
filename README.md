@@ -24,6 +24,7 @@ Just your friendly neighborhood Spider....uh i mean programmer.
 
 
 <p style = "width: 450px; float: right;" >
-   <img src = "https://github-readme-stats.vercel.app/api?username=kyeou&show_icons=true&theme=merko" width = 400>
+   <img src = "https://github-readme-stats.vercel.app/api?username=kyeou&show_icons=true&theme=merko&rank_icon=github" width = 400>
    <img src = "https://github-readme-streak-stats.herokuapp.com?user=kyeou&theme=merko" width = 400>
+   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kyeou&langs_count=10&layout=donut-vertical&theme=merko" width = 400>
 </p>
