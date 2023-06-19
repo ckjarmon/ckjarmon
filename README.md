@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 
 Just your friendly neighborhood Spider....uh i mean programmer.
-<br>https://kyeou.github.io</br>
-
 
 
 
