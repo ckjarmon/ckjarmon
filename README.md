@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 
 Just your friendly neighborhood Spider....uh i mean programmer.
-<p float="left">
+<!--   <p float="left">
   <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" width="100" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg" width="100" /> 
   <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" width="100" />
 </p>
-
+  -->
 
 
 
